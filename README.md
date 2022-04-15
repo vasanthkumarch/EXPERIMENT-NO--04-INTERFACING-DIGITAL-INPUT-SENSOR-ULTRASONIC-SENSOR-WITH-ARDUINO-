@@ -1,12 +1,7 @@
 # EXPERIMENT-NO--04-INTERFACING-DIGITAL-INPUT-SENSOR-ULTRASONIC-SENSOR-WITH-ARDUINO-
 
 
-
-
-
-EXPERIMENT NO -04
-INTERFACING DIGITAL INPUT SENSOR (ULTRASONIC SENSOR) WITH ARDUINO 
-AIM:  To interface an Digital input (Ultrasonic sensor) and measure the distance of the obstacle.
+**AIM:**  To interface an Digital input (Ultrasonic sensor) and measure the distance of the obstacle.
 COMPONENTS REQUIRED:
 1.	Ultrasonic pair  HR-S04
 2.	1 KΩ resistor 
@@ -14,7 +9,10 @@ COMPONENTS REQUIRED:
 4.	USB Interfacing cable 
 5.	Connecting wires 
 6.	LED of choice 
-THEORY
+
+
+**THEORY**
+
 Ultrasonic waves are basically sound waves which is beyond the human audibility ie., above 20Khz, and travels with a velocity of 340m/sec.
 An ultrasonic sensor comprises of 2 individual sensors
  1. Emitter 
