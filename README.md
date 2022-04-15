@@ -28,7 +28,7 @@ L is the measured distance,
 
 **HR-S04
 **
-![image](https://user-images.githubusercontent.com/36288975/163531726-7d3880a5-a1c9-40d7-8c76-5ff72699d6fc.png)
+![image](https://user-images.githubusercontent.com/36288975/163532103-2f2c4a10-e2be-416b-8dc1-71bb4351a2f8.png)
 
 **Figure-01 ULTRASONIC PAIR HC- SR04
 **
