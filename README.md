@@ -28,14 +28,15 @@ L is the measured distance,
 
 
 
-HR-S04
-
-
-
+**HR-S04
+**
 ![image](https://user-images.githubusercontent.com/36288975/163531726-7d3880a5-a1c9-40d7-8c76-5ff72699d6fc.png)
 
 **Figure-01 ULTRASONIC PAIR HC- SR04
 **
+
+
+
 PIN DESCRIPTION  
 Pin no 	Pin symbol	Pin function description 
 1	Vcc	5v power supply
@@ -76,9 +77,9 @@ ELECTRIC PARAMETERS
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device.
 
-**
-CIRCUIT DIAGRAM**
 
+**CIRCUIT DIAGRAM 
+** 
 
 ![image](https://user-images.githubusercontent.com/36288975/163531582-305baaa0-cd55-4b35-a6b9-7a40f95e9374.png)
 
